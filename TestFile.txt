@@ -1,14 +1,2 @@
 String one
 String two
-String three
-String 4
-<<<<<<< HEAD
-String 5
-Change after pushing
-<<<<<<< HEAD
-=======
->>>>>>> parent of a366323 (The first commit for delete)
-=======
-branch1
->>>>>>> branch1
-String 1
