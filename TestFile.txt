@@ -11,3 +11,4 @@ Change after pushing
 =======
 branch1
 >>>>>>> branch1
+String 1
