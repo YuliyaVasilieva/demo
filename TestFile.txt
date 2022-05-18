@@ -2,5 +2,8 @@ String one
 String two
 String three
 String 4
+<<<<<<< HEAD
 String 5
 Change after pushing
+=======
+>>>>>>> parent of a366323 (The first commit for delete)
